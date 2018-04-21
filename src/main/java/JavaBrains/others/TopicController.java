@@ -10,6 +10,7 @@ import java.util.List;
 @RestController
 public class TopicController {
 
+    // wstrzykiwanie
     @Autowired
     private TopicService topicService;
 
